@@ -2,13 +2,12 @@
 title: uvを使った環境構築
 tags:
   - Python
-  - uv(astral-sh)
-  - ruff
   - Rust
-
+  - Ruff
+  - uv(astral-sh)
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-02-04T23:10:25+09:00'
+id: 41c8153530d5542bee16
 organization_url_name: null
 slide: false
 ignorePublish: false
